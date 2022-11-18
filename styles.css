@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #00ffff, #ce1d61);
+    }
+    form {
+    display: flex;
+    flex-direction: column;
+    background:rgb(255, 0, 191);
+    text-align: center;
+    padding: 20px 25px;
+ }
